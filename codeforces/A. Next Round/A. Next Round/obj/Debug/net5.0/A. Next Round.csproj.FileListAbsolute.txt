@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.exe
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.deps.json
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.runtimeconfig.json
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.dll
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\ref\A. Next Round.dll
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\bin\Debug\net5.0\A. Next Round.pdb
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.dll
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\ref\A. Next Round.dll
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.pdb
+C:\Users\ASUS\Desktop\A. Next Round\A. Next Round\obj\Debug\net5.0\A. Next Round.genruntimeconfig.cache
