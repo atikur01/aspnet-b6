@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "A. Next Round/1.0.0": {
+        "dependencies": {
+          "Nakov.IO.Cin": "2.0.2.1"
+        },
         "runtime": {
           "A. Next Round.dll": {}
+        }
+      },
+      "Nakov.IO.Cin/2.0.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/Console.Cin.dll": {
+            "assemblyVersion": "2.0.2.1",
+            "fileVersion": "2.0.2.1"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Nakov.IO.Cin/2.0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lXLcLLcGdkigIRX+P9UARfEiZhvIpWX0ySL4uK+/uh0olfu1U3qZCRFSb3EFtNUc1G+7p4c7IeWMolsWoRUv2w==",
+      "path": "nakov.io.cin/2.0.2.1",
+      "hashPath": "nakov.io.cin.2.0.2.1.nupkg.sha512"
     }
   }
 }

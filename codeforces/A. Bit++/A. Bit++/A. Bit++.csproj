@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>A._Next_Round</RootNamespace>
+    <RootNamespace>A._Bit__</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Nakov.IO.Cin" Version="2.0.2.1" />
-  </ItemGroup>
 
 </Project>

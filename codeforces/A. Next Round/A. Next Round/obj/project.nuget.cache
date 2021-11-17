@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WUKbLCU5Plmz1TReOb36agp1Sfhn34DF4V9kvWV1qGcUkNS068CRHShlYvLpP4l3kR9DdmGcPYcxdPAm7nQhdw==",
+  "dgSpecHash": "X/2Jim+R8wwvL5RO3UXsB2/ZRZnb+OOlyqd2FXZN3OJGVHQZVxdOIL4pLMjxZChmqjIYyquiyw1sn3QQZwfCIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\nakov.io.cin\\2.0.2.1\\nakov.io.cin.2.0.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

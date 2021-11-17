@@ -1,39 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Nakov.IO.Cin/2.0.2.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Console.Cin.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Console.Cin.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Nakov.IO.Cin/2.0.2.1": {
-      "sha512": "lXLcLLcGdkigIRX+P9UARfEiZhvIpWX0ySL4uK+/uh0olfu1U3qZCRFSb3EFtNUc1G+7p4c7IeWMolsWoRUv2w==",
-      "type": "package",
-      "path": "nakov.io.cin/2.0.2.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "Nakov.IO.Cin-icon.png",
-        "lib/net20/Console.Cin.dll",
-        "lib/netstandard2.0/Console.Cin.dll",
-        "nakov.io.cin.2.0.2.1.nupkg.sha512",
-        "nakov.io.cin.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Nakov.IO.Cin >= 2.0.2.1"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\ASUS\\.nuget\\packages\\": {}
@@ -41,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
-      "projectName": "A. Next Round",
-      "projectPath": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj",
+      "projectName": "A. Bit++",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,12 +45,6 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
-        "dependencies": {
-          "Nakov.IO.Cin": {
-            "target": "Package",
-            "version": "[2.0.2.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

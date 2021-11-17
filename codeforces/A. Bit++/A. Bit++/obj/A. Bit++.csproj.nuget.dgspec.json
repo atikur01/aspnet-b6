@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj": {}
   },
   "projects": {
-    "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
-        "projectName": "A. Next Round",
-        "projectPath": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\A. Next Round.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj",
+        "projectName": "A. Bit++",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\A. Bit++.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnet-b6\\codeforces\\A. Next Round\\A. Next Round\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\A. Bit++\\A. Bit++\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Nakov.IO.Cin": {
-              "target": "Package",
-              "version": "[2.0.2.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

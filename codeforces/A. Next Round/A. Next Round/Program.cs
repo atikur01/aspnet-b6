@@ -15,9 +15,12 @@ namespace A._Next_Round
 
             for (int i = 0; i < input.Length; i++)
             {
-                if (int.Parse(input[0]) > k) count++;
+                if(int.Parse(input[i]) >= int.Parse(input[k-1]) && int.Parse(input[i]) > 0)
+                {
+                    count++;
+                }
             }
-            
+
 
             Console.WriteLine(count);
         }
