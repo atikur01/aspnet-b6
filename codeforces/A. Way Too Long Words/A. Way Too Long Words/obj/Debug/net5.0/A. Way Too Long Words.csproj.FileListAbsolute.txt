@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.exe
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.deps.json
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.runtimeconfig.json
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.dll
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\ref\A. Way Too Long Words.dll
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\bin\Debug\net5.0\A. Way Too Long Words.pdb
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.dll
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\ref\A. Way Too Long Words.dll
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.pdb
+C:\Users\ASUS\Desktop\A. Way Too Long Words\A. Way Too Long Words\obj\Debug\net5.0\A. Way Too Long Words.genruntimeconfig.cache
