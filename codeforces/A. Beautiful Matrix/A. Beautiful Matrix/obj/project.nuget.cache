@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbES58/WloVXc0G4aqXpk+YZw5kNNlEVXFoCoK7eDBZIOFccaGI68D3PEaxLgq5HJalDcDl04T1IQmv+7yAytw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\A. Beautiful Matrix\\A. Beautiful Matrix\\A. Beautiful Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
