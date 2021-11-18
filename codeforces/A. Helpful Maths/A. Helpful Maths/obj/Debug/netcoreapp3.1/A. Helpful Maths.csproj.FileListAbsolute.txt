@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.exe
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.deps.json
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.runtimeconfig.json
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.dll
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\bin\Debug\netcoreapp3.1\A. Helpful Maths.pdb
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.dll
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.pdb
+C:\Users\ASUS\Desktop\A. Helpful Maths\A. Helpful Maths\obj\Debug\netcoreapp3.1\A. Helpful Maths.genruntimeconfig.cache
