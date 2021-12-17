@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\A. Bit++.exe
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\A. Bit++.deps.json
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\A. Bit++.runtimeconfig.json
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\A. Bit++.dll
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\ref\A. Bit++.dll
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\bin\Debug\net6.0\A. Bit++.pdb
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.dll
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\ref\A. Bit++.dll
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.pdb
+C:\Users\ASUS\Desktop\codeforces c#\A. Bit++\A. Bit++\obj\Debug\net6.0\A. Bit++.genruntimeconfig.cache

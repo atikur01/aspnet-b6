@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Beautiful Matrix", "A. Beautiful Matrix\A. Beautiful Matrix.csproj", "{B7987A90-6AC4-4A0D-B6AE-5F509A39A6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7987A90-6AC4-4A0D-B6AE-5F509A39A6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7987A90-6AC4-4A0D-B6AE-5F509A39A6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7987A90-6AC4-4A0D-B6AE-5F509A39A6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7987A90-6AC4-4A0D-B6AE-5F509A39A6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9CE19E-8693-444E-B270-27BE7322324B}
+	EndGlobalSection
+EndGlobal

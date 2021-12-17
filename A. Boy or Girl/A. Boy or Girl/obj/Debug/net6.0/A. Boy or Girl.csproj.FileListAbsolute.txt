@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\A. Boy or Girl.exe
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\A. Boy or Girl.deps.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\A. Boy or Girl.runtimeconfig.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\A. Boy or Girl.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\ref\A. Boy or Girl.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\bin\Debug\net6.0\A. Boy or Girl.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\ref\A. Boy or Girl.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Boy or Girl\A. Boy or Girl\obj\Debug\net6.0\A. Boy or Girl.genruntimeconfig.cache

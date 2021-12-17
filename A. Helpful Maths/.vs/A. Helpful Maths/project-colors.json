@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4d600e6-dcee-432c-a205-9500775877cd": {
+      "ProjectGuid": "c4d600e6-dcee-432c-a205-9500775877cd",
+      "DisplayName": "A. Helpful Maths",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

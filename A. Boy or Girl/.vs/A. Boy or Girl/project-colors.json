@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "557b7c26-65ce-4ad3-be73-04330d0b3f2c": {
+      "ProjectGuid": "557b7c26-65ce-4ad3-be73-04330d0b3f2c",
+      "DisplayName": "A. Boy or Girl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

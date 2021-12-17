@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\A. Petya and Strings.exe
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\A. Petya and Strings.deps.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\A. Petya and Strings.runtimeconfig.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\A. Petya and Strings.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\ref\A. Petya and Strings.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\bin\Debug\net6.0\A. Petya and Strings.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\ref\A. Petya and Strings.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Petya and Strings\A. Petya and Strings\obj\Debug\net6.0\A. Petya and Strings.genruntimeconfig.cache
