@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cf5db38-4855-4cb8-a649-90698cb3e037": {
+      "ProjectGuid": "5cf5db38-4855-4cb8-a649-90698cb3e037",
+      "DisplayName": "BookStore.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

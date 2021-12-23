@@ -1,8 +1,43 @@
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using BookStore.Web;
 using BookStore.Web.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
+using Serilog.Events;
+using Serilog.Sinks.MSSqlServer;
+using Serilog.Sinks.MSSqlServer.Sinks.MSSqlServer.Options;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+builder.Host.UseServiceProviderFactory(new
+AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => {
+    containerBuilder
+    .RegisterModule(new WebModule());
+});
+
+builder.Host.UseSerilog((ctx, lc) => lc
+
+.MinimumLevel.Debug()
+.MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
+.Enrich.FromLogContext()
+.ReadFrom.Configuration(builder.Configuration));
+
+Log.Logger = new LoggerConfiguration()
+                .MinimumLevel.Debug()
+                .WriteTo.Console()
+                .WriteTo.File("Logs/myapp.txt", rollingInterval: RollingInterval.Day)
+                .WriteTo.MSSqlServer(
+                 connectionString: "Server=DESKTOP-SFE8PP4;Database=LogDb;Integrated Security=SSPI;",
+                 sinkOptions: new MSSqlServerSinkOptions { TableName = "LogEvents" }
+                 )
+                .CreateLogger();
+
+Log.Information("Serilog working...");
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -14,10 +49,15 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+
+try
+{
+    var app = builder.Build();
+
+
+    // Configure the HTTP request pipeline.
+    if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
 }
@@ -36,9 +76,26 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllerRoute(
+    app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+
+    app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
 app.MapRazorPages();
 
-app.Run();
+ 
+
+    app.Run();
+
+}
+catch (Exception ex)
+{
+    Log.Fatal(ex, "Application start-up failed");
+}
+finally
+{
+    Log.CloseAndFlush();
+}
