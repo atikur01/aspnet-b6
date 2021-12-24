@@ -31,6 +31,25 @@ builder.Host.UseSerilog((ctx, lc) => lc
 .Enrich.FromLogContext()
 .ReadFrom.Configuration(builder.Configuration));
 
+
+var appSettings = new ConfigurationBuilder()
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("appsettings.json")
+    .Build();
+
+var logDB = @"Server=DESKTOP-SFE8PP4\\SQLEXPRESS;Database=SerilogExample;Integrated Security=SSPI;";
+var sinkOpts = new MSSqlServerSinkOptions { TableName = "Logs" };
+var columnOpts = new ColumnOptions();
+
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.MSSqlServer(
+        connectionString: logDB,
+        sinkOptions: sinkOpts,
+        columnOptions: columnOpts,
+        appConfiguration: appSettings
+    ).CreateLogger();
+
+
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
