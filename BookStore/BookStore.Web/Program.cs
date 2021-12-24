@@ -4,40 +4,32 @@ using BookStore.Web;
 using BookStore.Web.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Serilog;
 using Serilog.Events;
+using Serilog.Filters;
+using Serilog.Sinks.File;
 using Serilog.Sinks.MSSqlServer;
 using Serilog.Sinks.MSSqlServer.Sinks.MSSqlServer.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
+//Autofac config
 builder.Host.UseServiceProviderFactory(new
 AutofacServiceProviderFactory());
-builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => {
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
+{
     containerBuilder
     .RegisterModule(new WebModule());
 });
 
-builder.Host.UseSerilog((ctx, lc) => lc
 
+//Logger config
+builder.Host.UseSerilog((ctx, lc) => lc
 .MinimumLevel.Debug()
 .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
 .Enrich.FromLogContext()
 .ReadFrom.Configuration(builder.Configuration));
-
-Log.Logger = new LoggerConfiguration()
-                .MinimumLevel.Debug()
-                .WriteTo.Console()
-                .WriteTo.File("Logs/myapp.txt", rollingInterval: RollingInterval.Day)
-                .WriteTo.MSSqlServer(
-                 connectionString: "Server=DESKTOP-SFE8PP4;Database=LogDb;Integrated Security=SSPI;",
-                 sinkOptions: new MSSqlServerSinkOptions { TableName = "LogEvents" }
-                 )
-                .CreateLogger();
-
-Log.Information("Serilog working...");
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -49,12 +41,11 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-
-
 try
 {
     var app = builder.Build();
 
+    Log.Information("Application Started..");
 
     // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
@@ -86,9 +77,7 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
- 
-
-    app.Run();
+app.Run();
 
 }
 catch (Exception ex)

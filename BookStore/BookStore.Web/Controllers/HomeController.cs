@@ -17,6 +17,7 @@ namespace BookStore.Web.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Currently In Home Index");
             return View();
         }
 
