@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.exe
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.deps.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.runtimeconfig.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\ref\A. Wrong Subtraction.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\ref\A. Wrong Subtraction.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Wrong Subtraction\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.genruntimeconfig.cache

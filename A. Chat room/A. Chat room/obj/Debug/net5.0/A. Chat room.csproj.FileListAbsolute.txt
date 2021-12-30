@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.exe
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.deps.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.runtimeconfig.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\ref\A. Chat room.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\bin\Debug\net5.0\A. Chat room.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\ref\A. Chat room.dll
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.pdb
+C:\Users\ASUS\Desktop\aspnet-b6\A. Chat room\A. Chat room\obj\Debug\net5.0\A. Chat room.genruntimeconfig.cache
