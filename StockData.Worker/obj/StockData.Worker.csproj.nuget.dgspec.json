@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\StockData.Worker\\StockData.Worker\\StockData.Worker.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\New folder\\aspnet-b6\\StockData.Worker\\StockData.Worker.csproj": {}
   },
   "projects": {
-    "D:\\StockData.Worker\\StockData.Worker\\StockData.Worker.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\New folder\\aspnet-b6\\StockData.Worker\\StockData.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\StockData.Worker\\StockData.Worker\\StockData.Worker.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\New folder\\aspnet-b6\\StockData.Worker\\StockData.Worker.csproj",
         "projectName": "StockData.Worker",
-        "projectPath": "D:\\StockData.Worker\\StockData.Worker\\StockData.Worker.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\New folder\\aspnet-b6\\StockData.Worker\\StockData.Worker.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\StockData.Worker\\StockData.Worker\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\New folder\\aspnet-b6\\StockData.Worker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,10 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

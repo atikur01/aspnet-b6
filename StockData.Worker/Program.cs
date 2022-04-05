@@ -3,6 +3,7 @@ using StockData.Worker;
 using StockData.Worker.Context;
 
 IHost host = Host.CreateDefaultBuilder(args)
+    .UseWindowsService()
     .ConfigureServices(services =>
     {
         services.AddHostedService<Worker>();
