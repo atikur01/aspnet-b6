@@ -1,0 +1,18 @@
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\SQS Operation.exe
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\SQS Operation.deps.json
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\SQS Operation.runtimeconfig.json
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\SQS Operation.dll
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\SQS Operation.pdb
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\bin\Debug\net6.0\AWSSDK.SQS.dll
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.dll
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\refint\SQS Operation.dll
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.pdb
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\SQS Operation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\SQS Operation\SQS Operation\obj\Debug\net6.0\ref\SQS Operation.dll
