@@ -1,0 +1,18 @@
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\S3 Bucket Operation.exe
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\S3 Bucket Operation.deps.json
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\S3 Bucket Operation.runtimeconfig.json
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\S3 Bucket Operation.dll
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\S3 Bucket Operation.pdb
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.dll
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\refint\S3 Bucket Operation.dll
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.pdb
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\S3 Bucket Operation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\S3 Bucket Operation\S3 Bucket Operation\obj\Debug\net6.0\ref\S3 Bucket Operation.dll
