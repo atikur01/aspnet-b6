@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDb Operation", "DynamoDb Operation\DynamoDb Operation.csproj", "{5A708CC9-DC0A-4D50-8C15-66755580C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A708CC9-DC0A-4D50-8C15-66755580C8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A708CC9-DC0A-4D50-8C15-66755580C8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A708CC9-DC0A-4D50-8C15-66755580C8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A708CC9-DC0A-4D50-8C15-66755580C8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E36757-4727-42CE-BB19-F9BEEC95F0A7}
+	EndGlobalSection
+EndGlobal

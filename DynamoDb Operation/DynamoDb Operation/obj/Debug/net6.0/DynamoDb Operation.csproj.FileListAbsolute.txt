@@ -1,0 +1,18 @@
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\DynamoDb Operation.exe
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\DynamoDb Operation.deps.json
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\DynamoDb Operation.runtimeconfig.json
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\DynamoDb Operation.dll
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\DynamoDb Operation.pdb
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.dll
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\refint\DynamoDb Operation.dll
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.pdb
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\DynamoDb Operation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DynamoDb Operation\DynamoDb Operation\obj\Debug\net6.0\ref\DynamoDb Operation.dll
