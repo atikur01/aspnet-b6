@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DynamoDb_Operation
 {
-    [DynamoDBTable("Book")]
+    [DynamoDBTable("atik394009")]
     public class Book
     {
         [DynamoDBHashKey] //Partition key

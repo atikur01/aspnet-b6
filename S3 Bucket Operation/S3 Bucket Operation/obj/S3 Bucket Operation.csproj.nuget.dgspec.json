@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
         "projectName": "S3 Bucket Operation",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

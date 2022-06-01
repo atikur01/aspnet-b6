@@ -9,11 +9,11 @@
             string OBJECT_NAME1 = "objectname1.txt";
             var path = $"{LOCAL_PATH}\\{OBJECT_NAME1}";
 
-            //await s3Operation.UploadObjectFromFileAsync("storageudemy", "objectname1.txt", path);
+            //await s3Operation.UploadObjectFromFileAsync("atik394009", "objectname1.txt", path);
 
-            //await s3Operation.ReadObjectDataAsync("storageudemy", "objectname1.txt");
+            //await s3Operation.ReadObjectDataAsync("atik394009", "objectname1.txt");
 
-            //await s3Operation.DeleteObjectNonVersionedBucketAsync("storageudemy", "objectname1.txt");
+            //await s3Operation.DeleteObjectNonVersionedBucketAsync("atik394009", "objectname1.txt");
 
         }
     }

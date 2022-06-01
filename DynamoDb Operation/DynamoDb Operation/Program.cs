@@ -6,7 +6,7 @@
         {
             Book myBook = new Book
             {
-                Id = 1001,
+                Id = 24,
                 Title = "object persistence-AWS SDK for.NET SDK-Book 1001",
                 ISBN = "111-1111111001",    
             };
@@ -14,10 +14,9 @@
             DynamoDbOperation dbOperation = new DynamoDbOperation();
 
             //await dbOperation.AddRow(myBook);
+            //await dbOperation.GetRow(1, 10);
 
-            //await dbOperation.GetRow(1001, 1010);
-
-            //dbOperation.DeleteRowAsync(1012);
+            //dbOperation.DeleteRowAsync(24);
 
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nG5NOI0+SEBRr3hoRTbFKmzuo3UEdouwmk/ZY0V3q92RNuInSHnUZVXGdVaicdPIvIHd0pRiAr/R7c+k6Utu6g==",
+  "dgSpecHash": "sAjtDNgDmHGaKtEEnUAovLjKSu62F65DHcOF3r3p4xhdWjY/s2zR7U0GEhW1nykj1y72od1YBnpmF/1BQysAJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.43\\awssdk.dynamodbv2.3.7.3.43.nupkg.sha512"

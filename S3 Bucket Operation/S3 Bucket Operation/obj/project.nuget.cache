@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gRgUOCj5vTUXcweRCfSuUMKFJki6arvkKS5fLaRJEv3xJfhd5cmTI2plNvSqZaMrTRd4WHRi6rRe1RSL//Bbkw==",
+  "dgSpecHash": "uH5lguUlBqRbkuVPWYC5szQh+pNy0X0jAWCeLtGQJAyjKyLQCqgaQK2vJ/UC5lDtTEfX8RBHNudm8iEY3p4a2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\S3 Bucket Operation\\S3 Bucket Operation\\S3 Bucket Operation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.core\\3.7.11.10\\awssdk.core.3.7.11.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.s3\\3.7.9.10\\awssdk.s3.3.7.9.10.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVp2waHu82oKAgM/r+nhGCdfgruarYvvf3wAkNfdctljvsCxkIGz63sT/4RwiW26BvInKkIoe34kCLPBnlgoYg==",
+  "dgSpecHash": "OyZwnOp+J7KtYpRr1hBPVcExthPkruXj3qUCZJwVdJ5UOQfgWdCrYfJMhHUWk46FgmN4wMa/MZrnaV47quCCsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\SQS Operation\\SQS Operation\\SQS Operation.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\SQS Operation\\SQS Operation\\SQS Operation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.core\\3.7.11.10\\awssdk.core.3.7.11.10.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\awssdk.sqs\\3.7.2.63\\awssdk.sqs.3.7.2.63.nupkg.sha512"

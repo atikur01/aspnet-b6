@@ -30,7 +30,7 @@ namespace SQS_Operation
                 WaitTimeSeconds = 20
             });
 
-            //Console.WriteLine($"Count : {x.Messages.Count}");
+           // Console.WriteLine($"Count : {x.Messages.Count}");
             foreach (var item in x.Messages)
             {
 

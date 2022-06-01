@@ -6,15 +6,13 @@
         {
             QueueOperation queueOperation = new QueueOperation();
 
-            var url = "https://sqs.us-east-1.amazonaws.com/667432834983/AtiksQueue";
+            var url = "https://sqs.us-east-1.amazonaws.com/847888492411/atik394009";
             var body = "hello world";
-      
-            await queueOperation.SendMessage(url,body);
 
-            var receiveMessageResponse = await queueOperation.GetMessage(url);
-   
-            await queueOperation.DeleteReadMessages(url, receiveMessageResponse);
-           
+            // await queueOperation.SendMessage(url, body);
+            // var receiveMessageResponse = await queueOperation.GetMessage(url);
+            //  await queueOperation.DeleteReadMessages(url, receiveMessageResponse);
+
         }
     }
 }

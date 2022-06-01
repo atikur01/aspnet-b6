@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
         "projectName": "DynamoDb Operation",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\DynamoDb Operation.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\DynamoDb Operation\\DynamoDb Operation\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\aspnet-b6\\DynamoDb Operation\\DynamoDb Operation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
